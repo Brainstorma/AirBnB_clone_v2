@@ -106,7 +106,8 @@ This will run all tests in the `tests/` directory.
 This project was a collaborative effort by:
 
 [Brainstorma](https://github.com/brainstorma)
-Amina Niass <mina.niass456@gmail.com>
+[Amina Niass](https://github.com/Amy19921)
+
 
 ## Tasks
 
